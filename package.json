@@ -1,0 +1,11 @@
+{
+  "name": "practice-4-express",
+  "version": "0.0.1",
+  "description": "express drills and knowledge refresh",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "Bader Alsabah",
+  "license": "MIT"
+}
