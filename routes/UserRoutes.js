@@ -7,4 +7,5 @@ router.post("/update", (req, res) =>
   res.send("<h2>Updated user details</h2>" + req.body.age)
 );
 
+// export statement so that it can be imported in server.js
 module.exports = router;

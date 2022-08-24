@@ -2,7 +2,7 @@
 
 1 - Git init
 2 - npm init
-3 - added the command "nodemon server.js" as test script in package.json - so that I can run npm test to run dev env
+~~3 - added the command "nodemon server.js" as test script in package.json - so that I can run npm test to run dev env~~
 4 - npm i express nodemon
 5 - Placed a listen call on the server
 6 - Created a landing route "/" and tested it with Postman & browser.
